@@ -1,0 +1,70 @@
+{
+  "articles" : {
+    "-Lmt_4jlO1-eFILBQL7O" : {
+      "en" : {
+        "descr" : "Did your computer break down? Of course, in the first minutes it will seem an irreparable tragedy, but do not panic. Our company offers computer repair services in Dnepropetrovsk - we are always ready to provide computer assistance at the most affordable price. In our service you are offered a wide range of services related to the repair of computer equipment, installation of the operating system and software, cleaning laptops, etc. Our friendly service and quality service will leave only pleasant memories. If the most terrible, and at first glance, irreparable computer breakdown has occurred - do not worry! An honest computer service is always at your service - we will find out the cause of the malfunction, eliminate it and give practical advice on the operation of the computer and laptop, which will help avoid this failure in the future.",
+        "title" : "Computer repair"
+      },
+      "id" : "1",
+      "ru" : {
+        "descr" : "Сломался компьютер? Конечно, в первые минуты это покажется непоправимой трагедией, но не стоит паниковать. Наша компания предлагает услуги по осуществлению ремонта компьютеров в Днепропетровске – мы всегда готовы оказать компьютерную помощь по наиболее приемлемой цене.В нашем сервисе вам предлагается широкий ассортимент услуг, связанный с ремонтом компьютерной техники, установкой операционной системы и программного обеспечения, чисткой ноутбуков и т.д. Наш доброжелательный сервис и качественное обслуживание оставит после себя только приятные воспоминания.Если произошла самая страшная, и на первый взгляд, не поправимая поломка компьютера – не стоит волноваться! Честный компьютерный сервис всегда к вашим услугам – мы узнаем причину неисправности, устраним ее и дадим дельные советы по эксплуатации компьютера и ноутбука, которые позволят избежать возникновения данной поломки в дальнейшем.",
+        "title" : "Ремонт компьютера"
+      }
+    },
+    "-LmtiQQmQ4bJ1SS5esff" : {
+      "en" : {
+        "descr" : "The use of modern technology greatly facilitates human life. What is only one laptop that allows you to carry all the important documents, data, programs and have access to the Internet from almost anywhere in the world. However, it is precisely such mobility that is the most vulnerable feature of technology, since even the most careful handling is always accompanied by undesirable damage. On the other hand, the failure of laptops is largely influenced by the inability to control absolutely all production processes in factories, which necessarily affects technical shortcomings.",
+        "title" : "Laptop repair"
+      },
+      "id" : "2",
+      "ru" : {
+        "descr" : "Использование современных технологий во многом облегчает жизнь человека. Чего стоит только один ноутбук, который позволяет носить в себе все важные документы, данные, программы и иметь выход в интернет практически из любой точки мира. Однако именно такая мобильность является самой уязвимой чертой техники, поскольку даже самое аккуратное обращение всегда сопровождается нежелательными повреждениями. С другой стороны, на неисправности ноутбуков во многом влияет невозможность проконтролировать абсолютно все производственные процессы на заводах, что обязательно сказывается на технических недоработках.",
+        "title" : "Ремонт ноутбуков"
+      }
+    },
+    "-LmtkOh9fazJS3eW9elE" : {
+      "en" : {
+        "descr" : "The tablet is a portable personal computer. Basically, finger touches are enough to use it, but you can connect a mouse or keyboard if you wish. Tablets are becoming increasingly popular in the modern world, because they combine the capabilities of a laptop and the mobility of smartphones. However, like any other technique, tablets can break. The reason for this may be :  careless attitude, wear of certain parts or even the manufacturer’s marriage. The specificity of these devices lies in their structure. This leads to the fact that any, even the smallest problems, become quite specific and their solution should be entrusted to professionals. An honest computer service offers its services in the repair of tablets of any companies and manufacturers in Dnepropetrovsk.",
+        "title" : "Tablet repair"
+      },
+      "id" : "3",
+      "ru" : {
+        "descr" : "Планшет является портативным персональным компьютером. В основном для его использования достаточно касаний пальцев рук, однако при желании можно подключить мышь или клавиатуру. Планшеты становятся все более популярными в современном мире, поскольку сочетают в себе возможности ноутбука и мобильность смартфонов. Однако, как и любая другая техника, планшеты могут ломаться. Причиной этому может стать :  небрежное отношение, износ определенных деталей или даже брак производителя. Специфика данных устройств заключается в их строении. Это приводит к тому, что любые, даже самые мелкие проблемы, становятся достаточно специфическими и их решение следует доверить профессионалам. Честный компьютерный сервис предлагает свои услуги по ремонту планшетов любых фирм и производителей в Днепропетровске.",
+        "title" : "Ремонт планшетов"
+      }
+    },
+    "-LmtkvyhKFoC6yf93Lom" : {
+      "en" : {
+        "descr" : "Description by Loremore, three dogs were on the mountain with a green meadow near the road. 1  ",
+        "title" : "Title demo 1"
+      },
+      "id" : "4",
+      "ru" : {
+        "descr" : "Описание лорем оне три собаки были на горе с зеленым лугом у обочены. 1",
+        "title" : "Тайтл демо 1"
+      }
+    },
+    "-LmtlE29WgHf87DiKq1n" : {
+      "en" : {
+        "descr" : "Description by Loremore, three dogs were on the mountain with a green meadow near the road. 2 ",
+        "title" : "Title demo 2"
+      },
+      "id" : "5",
+      "ru" : {
+        "descr" : "Описание лорем оне три собаки были на горе с зеленым лугом у обочены. 2",
+        "title" : "Тайтл демо 2"
+      }
+    },
+    "-Lmty7E1zUv2gCAyr5Jy" : {
+      "en" : {
+        "descr" : "Description by Loremore, three dogs were on the mountain with a green meadow near the road. 3 ",
+        "title" : "Title demo 3"
+      },
+      "id" : "6",
+      "ru" : {
+        "descr" : "Описание лорем оне три собаки были на горе с зеленым лугом у обочены. 3",
+        "title" : "Тайтл демо 3"
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+This is a Next.js template that was migrated from React.js and has been updated to the latest version multiple times. In this template, I utilize Firebase Database and multilanguage functionality.
